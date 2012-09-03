@@ -1,0 +1,5 @@
+INSTALL
+
+Inside /arctos-plasmatheme:
+
+	plasmapkg -i Arctos

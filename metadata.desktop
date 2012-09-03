@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Actos
+Comment=Actos Plasma theme
+
+X-KDE-PluginInfo-Author=Ionut Colceriu
+X-KDE-PluginInfo-Email=contact@ghinda.net
+X-KDE-PluginInfo-Name=Actos
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://ghinda.net/
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[Wallpaper]
+defaultWallpaperTheme=Actos
+defaultFileSuffix=.jpg
+defaultWidth=2560
+defaultHeight=1600

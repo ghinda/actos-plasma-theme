@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon14, part of koffice: http://www.koffice.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.2pt" height="19.2pt">
+  <defs>
+  </defs>
+  <g id="amarok">
+    <g id="iii" transform="translate(4.93047, 4.36954)" fill="none">
+      <g id="ppp" fill="none">
+        <path id="123" fill="#f2f2f2" opacity="0.9" d="M0 0L18.6251 8.8582L1.33227e-15 17.7164Z"  transform="matrix(0.654361 0 0 0.712899 0.933485 1.32853)" />
+        <path id="iii" fill="none" stroke="#000000" stroke-opacity="0.392157" stroke-width="1.46412" stroke-linecap="butt" stroke-linejoin="round" opacity="0.9" d="M1.55431e-15 0L20.9518 9.9457L0 19.8914Z"  transform="matrix(0.654361 0 0 0.712899 0.479032 0.521886)" />
+      </g>
+    </g>
+    <rect id="rect3793" transform="translate(2.20787, 2.4657)" fill="#f2f2f2" fill-rule="evenodd" stroke="#000000" stroke-width="0.820472" stroke-linecap="butt" stroke-linejoin="round" opacity="0" width="15.3669pt" height="15.414pt" rx="1.96119pt" ry="1.97711pt"/>
+    <rect id="rect3794" transform="translate(0.499899, 0.504767)" fill="#f2f2f2" fill-rule="evenodd" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" opacity="0" width="18.3963pt" height="18.3963pt"/>
+  </g>
+</svg>
